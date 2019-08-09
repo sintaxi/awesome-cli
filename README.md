@@ -60,6 +60,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [tldr](https://github.com/tldr-pages/tldr)- Simplified and community-driven man pages
 
+* [cbf](https://github.com/joshuatvernon/cbf) - Build custom CLI apps with only a json or yaml file.
+
 ## Data Manipulation
 
 * [jq](https://github.com/stedolan/jq)- Command-line JSON processor [http://stedolan.github.io/jq/](http://stedolan.github.io/jq/)
